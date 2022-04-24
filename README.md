@@ -1,0 +1,2 @@
+# C9E1-UEmployeeFacultyStaff
+Create a UEmployee class that contains member variables for the university employee name and salary.  The UEmployee class should contain member methods for returning the employee name and salary. Create Faculty and Staff classes that inherit the UEmployee class. The Faculty class should include  members for storing and returning the department name. The Staff class should include members for  storing and returning the job title.
