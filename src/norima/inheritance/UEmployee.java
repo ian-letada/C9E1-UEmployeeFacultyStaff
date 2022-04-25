@@ -1,3 +1,4 @@
+package norima.inheritance;
 public class UEmployee {
     private String employeeName;
     private int employeeSalary;

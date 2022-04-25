@@ -1,4 +1,6 @@
-public class Staff {
+package norima.inheritance;
+
+public class Staff extends UEmployee {
     private String jobTitle;
 
     public String getJobTitle() {

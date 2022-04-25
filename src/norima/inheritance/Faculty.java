@@ -1,3 +1,5 @@
+package norima.inheritance;
+
 public class Faculty extends UEmployee {
     private String departmentName;
 
